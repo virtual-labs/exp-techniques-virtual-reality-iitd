@@ -1,4 +1,4 @@
-### Link your references in here
+### Refer to the following references to read more
 
 1. "Unity Virtual Reality Projects: Learn Virtual Reality by Developing More than 10 Engaging Projects with Unity 2018" by Jonathan Linowes and Krystian Babilinski.
 2. "Unreal Engine Virtual Reality Quick Start Guide: Design and Develop Immersive Virtual Reality Experiences with Unreal Engine 4" by Jessica Plowman.

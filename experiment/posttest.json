@@ -8,11 +8,6 @@
         "b": "It improves the resolution of VR headsets",
         "c": "It reduces the cost of VR development"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2"
-      },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -23,11 +18,6 @@
         "b": "Creating a detailed virtual replica of a historical artifact",
         "c": "Building an entire virtual city with roads, buildings, and trees"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2"
-      },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -37,11 +27,6 @@
         "a": "Architecture, gaming, and education",
         "b": "Only gaming and entertainment",
         "c": "Only virtual reality headsets manufacturing"  
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
