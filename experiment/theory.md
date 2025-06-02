@@ -1,4 +1,4 @@
-### Link your theory in here
+### Theory
 
 ### Virtual Reality Modeling
 In the context of virtual reality (VR), "modeling" typically refers to the creation of 3D virtual objects or environments that users can interact with. This process involves using computer software to design and construct virtual models, which can represent anything from simple shapes to complex landscapes or intricate objects.

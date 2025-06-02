@@ -8,11 +8,6 @@
         "b": "The creation of 3D virtual objects or environments",
         "c": "The use of headsets for immersive experiences"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2"
-      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -23,11 +18,6 @@
         "b": "Creating a detailed virtual replica of a historical artifact",
         "c": "Programming user interactions in VR"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2"
-      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -37,11 +27,6 @@
         "a": "Environment modeling focuses on individual objects, while object modeling creates entire spaces",
         "b": "Object modeling involves small-scale objects, while environment modeling designs entire immersive spaces",
         "c": "Both terms mean the same thing in VR"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
