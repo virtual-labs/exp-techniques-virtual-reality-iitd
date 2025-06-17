@@ -1,0 +1,35 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What does 'modeling' refer to in the context of virtual reality (VR)?",
+      "answers": {
+        "a": "The process of coding VR software",
+        "b": "The creation of 3D virtual objects or environments",
+        "c": "The use of headsets for immersive experiences"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is an example of environment modeling?",
+      "answers": {
+        "a": "Designing a futuristic spaceship for a sci-fi game",
+        "b": "Creating a detailed virtual replica of a historical artifact",
+        "c": "Programming user interactions in VR"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "How does environment modeling differ from object modeling?",
+      "answers": {
+        "a": "Environment modeling focuses on individual objects, while object modeling creates entire spaces",
+        "b": "Object modeling involves small-scale objects, while environment modeling designs entire immersive spaces",
+        "c": "Both terms mean the same thing in VR"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
