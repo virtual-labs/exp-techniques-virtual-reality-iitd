@@ -1,0 +1,35 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Why is 3D modeling important for VR experiences?",
+      "answers": {
+        "a": "It helps create realistic and interactive digital spaces",
+        "b": "It improves the resolution of VR headsets",
+        "c": "It reduces the cost of VR development"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is an example of environment modeling?",
+      "answers": {
+        "a": "Designing a futuristic spaceship for a sci-fi game",
+        "b": "Creating a detailed virtual replica of a historical artifact",
+        "c": "Building an entire virtual city with roads, buildings, and trees"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In which of the following fields can 3D modeling be applied?",
+      "answers": {
+        "a": "Architecture, gaming, and education",
+        "b": "Only gaming and entertainment",
+        "c": "Only virtual reality headsets manufacturing"  
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
