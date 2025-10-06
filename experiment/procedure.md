@@ -1,5 +1,5 @@
 ### Procedure
 
-![Virtual Reality Lab Setup](./images/Texturing-modeling-process.png)
+![3D modeling of mushroom showing vertices, faces, UV Unwrapping, and Texture painting](./images/Texturing-modeling-process.png)
 
-**Fig. 1 :** Process of 3D modelling to texture painting
+**Fig. 1 :** 3D modeling of mushroom showing vertices, faces, UV Unwrapping, and Texture painting
